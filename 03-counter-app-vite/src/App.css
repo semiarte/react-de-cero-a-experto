@@ -1,0 +1,14 @@
+body {
+    background-color: #25373D;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mainContent {
+    max-width: 980px;
+    margin: 0 auto;
+    text-align: center;
+}
+button {
+    padding: 1em;
+    margin-right: 1em;
+}
